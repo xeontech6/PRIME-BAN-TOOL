@@ -21,8 +21,8 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
-cd Crypto-banning-tools
+git clone https://github.com/xeontech6/PRIME-BAN-TOOL
+cd prime-ban-tool
 python ban.py
 ```
 
@@ -31,8 +31,8 @@ python ban.py
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
-cd Crypto-bannig-tools
+git clone https://github.com/xeontech6/PRIME-BAN-TOOL
+cd prime-ban-tool
 python3 ban.py
 ```
 
